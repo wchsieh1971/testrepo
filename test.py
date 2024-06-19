@@ -13,6 +13,6 @@ def is_prime(n):
         i += 6
     return True
 
-is_prime(5)
+print(is_prime(5))
 
 # Output: True
