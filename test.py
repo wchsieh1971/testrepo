@@ -14,7 +14,7 @@ def is_prime(n):
     return True
 
 print(is_prime(5))
-
+print(is_prime(7))
 # Input: 5
 
 # Output: True
