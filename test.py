@@ -15,4 +15,6 @@ def is_prime(n):
 
 print(is_prime(5))
 
+# Input: 5
+
 # Output: True
